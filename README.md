@@ -24,8 +24,9 @@ epoch별로 학습률을 조정하고, early stopping을 적용하여 marco f1�
 ---
 
 ### 후기 및 소감
-https://velog.io/@mrlee/%EB%8D%B0%EC%9D%B4%EC%BD%98-%EA%B1%B4%EC%84%A4%EC%9A%A9-%EC%9E%90%EA%B0%88-%EC%95%94%EC%84%9D-%EC%A2%85%EB%A5%98-%EB%B6%84%EB%A5%98-AI-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%ED%9B%84%EA%B8%B0
-
+<a href="https://velog.io/@mrlee/%EB%8D%B0%EC%9D%B4%EC%BD%98-%EA%B1%B4%EC%84%A4%EC%9A%A9-%EC%9E%90%EA%B0%88-%EC%95%94%EC%84%9D-%EC%A2%85%EB%A5%98-%EB%B6%84%EB%A5%98-AI-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%ED%9B%84%EA%B8%B0">
+  Velog 암석 분류 경진대회 후기
+</a>
 대회 기간 동안 다양한 모델을 실험해보며, 특히 전이 학습과 데이터 증강의 중요성을 다시금 실감할 수 있었습니다.
 처음에는 ResNet50을 사용해 성능이 0.5614로 다소 낮았지만, ConvNeXt, MaxViT, Swin과 같은 최신 모델을 적용하면서 성능을 0.8566까지 크게 향상시킬 수 있었습니다.
 
